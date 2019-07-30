@@ -1,3 +1,4 @@
+@ignore
 Feature: Duck Duck Go Search
 
   Scenario Outline: I want to search on duck-duck-go site
